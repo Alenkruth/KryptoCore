@@ -1,2 +1,4 @@
 src/README.md
 tb/README.md
+src/RConXor.sv
+src/RotateState.sv
