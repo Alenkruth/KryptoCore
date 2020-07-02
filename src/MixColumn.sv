@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   MixColumns Module (top)                                         //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the MixColumns operation of Rijndael     //
 //                                                                                //

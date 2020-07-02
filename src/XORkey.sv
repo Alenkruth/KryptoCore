@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   X ORs post the F/G function to generate the key                 //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of 4 Xors performed on 32b words            //
 //                                                                                //

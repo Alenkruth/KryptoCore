@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   F Function in Key Expansion                                     //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the F function with XORs in              //
 //                the Key expansion                                               //

@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   G Function in Key Expansion                                     //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the SubBytes operation in the Key        //
 //                expansion. 4 instances of the SubByte module is utilized in     //

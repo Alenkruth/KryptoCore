@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   SubBytes Module (top)                                           //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the SubBytes operation of Rijndael       //
 //                implemented as a circuit rather than a lookup table.            //

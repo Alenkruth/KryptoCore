@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Wrapper module for all the AES encryption stages                //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of all the stages to perform one round      //
 //                                                                                //

@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Multiplier in GF(2^4)                                           //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the multiplier unit used to perform      //
 //                multiplication in the GF(2^4) field.                            //

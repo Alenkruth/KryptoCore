@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Affine Transformation                                           //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the affine transformation                //
 //                (q=aff_trans(a))                                                //

@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Key Schedule Module (top)                                       //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the Key Expander operation of Rijndael   //
 // Reference:     https://crypto.stackexchange.com/a/1527                         //

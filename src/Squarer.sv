@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Square in GF(2^4)                                               //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the circuitry used to perform            //
 //                squaring in the GF(2^4) field.                                  //

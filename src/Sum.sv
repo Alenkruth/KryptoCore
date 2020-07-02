@@ -1,7 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 // Author:        Alenkruth                                                       //
 // Design Name:   Sum in GF(16)                                                   //
-// Project Name:  RISC-V Crypto Extension                                         //
 // Language:      System Verilog                                                  //
 // Description:   The module consists of the adder circuit to perform             //
 //                addition of two nibbles in GF(16)                               //
