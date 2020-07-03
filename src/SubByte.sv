@@ -22,7 +22,7 @@ module SubByte
 
 	//Data Signals 
 	input logic [7:0] data_i,
-	output logic [7:0] data_inv,
+	// output logic [7:0] data_inv,
 	output logic [7:0] data_o
 	);
 
